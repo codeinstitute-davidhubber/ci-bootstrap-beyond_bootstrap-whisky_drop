@@ -1,4 +1,4 @@
-#### Bootstrap › Beyond Bootstrap › Whisky Drop › Styling the Nav & Alert
+#### Bootstrap › Beyond Bootstrap › Whisky Drop › Updating Quotes and Features
 
 
 ***
@@ -16,7 +16,7 @@
 
 ## Project
 
-Whisky DropLanding Page - Styling the Nav & Alert
+Whisky Drop Landing Page - Updating Quotes and Features
 
 
 ## Project URL
@@ -26,7 +26,7 @@ Whisky DropLanding Page - Styling the Nav & Alert
 
 ## Description
 
-Customising the the nav and the alert elements.
+Customise remainder of Landing Page
 
 ## Author
 
@@ -54,6 +54,6 @@ This website was built as part of the learning material for Code Institutes Full
 
 ***
 
-##### Code Institute › Bootstrap › Beyond Bootstrap › Whisky Drop › Styling the Nav & Alert
+##### Code Institute › Bootstrap › Beyond Bootstrap › Whisky Drop › Updating Quotes and Features
 
  [![FullStkDev](https://fullstk.dev/_external/fsd.svg)](https://fullstk.dev)
