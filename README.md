@@ -51,8 +51,6 @@ This website was built as part of the learning material for Code Institutes Full
 
 - CSS Framework › [Bootstrap 4.3.1](https://github.com/twbs/bootstrap "Bootstrap")
 
-- Main Imgae - HD wallpaper: glass, whisky, macro 3840x2160px by [Wallpaperflare.com](https://www.wallpaperflare.com/ "Wallpaper Flare")
-
 
 ***
 
