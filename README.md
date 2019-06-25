@@ -1,4 +1,4 @@
-#### Bootstrap › Beyond Bootstrap › Whisky Drop › Updating the Callout
+#### Bootstrap › Beyond Bootstrap › Whisky Drop › Styling the Nav & Alert
 
 
 ***
@@ -16,7 +16,7 @@
 
 ## Project
 
-Whisky DropLanding Page - Updating the Callout
+Whisky DropLanding Page - Styling the Nav & Alert
 
 
 ## Project URL
@@ -26,7 +26,7 @@ Whisky DropLanding Page - Updating the Callout
 
 ## Description
 
-Styling the 'callout section' to draw the user's eye.
+Customising the the nav and the alert elements.
 
 ## Author
 
@@ -54,6 +54,6 @@ This website was built as part of the learning material for Code Institutes Full
 
 ***
 
-##### Code Institute › Bootstrap › Beyond Bootstrap › Whisky Drop › Updating the Callout
+##### Code Institute › Bootstrap › Beyond Bootstrap › Whisky Drop › Styling the Nav & Alert
 
  [![FullStkDev](https://fullstk.dev/_external/fsd.svg)](https://fullstk.dev)
