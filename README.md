@@ -21,7 +21,7 @@ Whisky Drop Landing Page - Updating Quotes and Features
 
 ## Project URL
 
-**'https://davidhubber.github.io/ci-bootstrap-beyond_bootstrap-whisky_drop'**
+**'https://codeinstitute-davidhubber.github.io/ci-bootstrap-beyond_bootstrap-whisky_drop'**
 
 
 ## Description
